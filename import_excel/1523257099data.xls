@@ -1,0 +1,1392 @@
+<style typew="text/css">
+    table {
+        border-collapse: collapse;
+    }
+    table, th, td{
+        border:1px solid black;
+    }
+    th{
+        background-color:#eb3a28;  
+    }
+    .text{
+        mso-number-format:"\@";/*force text*/
+    }
+    .decimal{
+        mso-number-format:"0\.000";
+    }
+</style>
+     
+<table id="table" class="table table-bordered table-striped table-hover" style="white-space: nowrap;">
+    <thead style="background-color: #ffffff; color:#666;">
+        <tr>
+            <th>NO</th>
+            <th>TANGGAL ENTRY</th>
+            <th>TANGGAL PENCATATAN</th>
+            <th>KELURAHAN</th>
+            <th>ALAMAT</th>
+            <th>RT</th>
+            <th>RW</th>
+            <th>INFRASTRUKTUR</th>
+            <th>PANJANG</th>
+            <th>LEBAR</th>
+            <th>KONDISI</th>
+            <th>MATERIAL</th>
+            <th>FOTO 1</th>
+            <th>FOTO 2</th>
+            <th>FOTO 3</th>
+            <th>KETERANGAN</th>
+        </tr>
+    </thead>
+    <tbody>
+                    <tr>
+                <td style="text-align: center;">1</td>
+                <td class="text">09/04/2018 13:34:57</td>
+                <td class="text">09/04/2018 13:34:00</td>
+                <td>Bendanngisor</td>
+                <td>jalan melati</td>
+                <td>3</td>
+                <td>6</td>
+                <td>Jalan</td>
+                <td>8</td>
+                <td>8</td>
+                <td>Rusak Ringan</td>
+                <td>Paving</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto3                    </a>
+                </td>
+                <td>okey</td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">2</td>
+                <td class="text">09/04/2018 13:23:12</td>
+                <td class="text">09/04/2018 13:23:00</td>
+                <td>Bendungan</td>
+                <td>jl. mawar</td>
+                <td>10</td>
+                <td>13</td>
+                <td>Jalan</td>
+                <td>5</td>
+                <td>9</td>
+                <td>Rusak Ringan</td>
+                <td>Paving</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto3                    </a>
+                </td>
+                <td>okey</td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">3</td>
+                <td class="text">09/04/2018 13:16:05</td>
+                <td class="text">09/04/2018 13:15:00</td>
+                <td>Bendungan</td>
+                <td>Jl. malati</td>
+                <td>4</td>
+                <td>5</td>
+                <td>Jalan</td>
+                <td>10</td>
+                <td>50</td>
+                <td>Rusak Sedang</td>
+                <td>Paving</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto3                    </a>
+                </td>
+                <td>okey</td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">4</td>
+                <td class="text">20/03/2018 10:26:42</td>
+                <td class="text"> </td>
+                <td>Bendanduwur</td>
+                <td>jlaan banowati selatan v</td>
+                <td>9</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>8</td>
+                <td>9</td>
+                <td>Rusak Berat</td>
+                <td>Sirtu</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto3                    </a>
+                </td>
+                <td>okey</td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">5</td>
+                <td class="text">20/03/2018 10:26:31</td>
+                <td class="text"> </td>
+                <td>Bendanngisor</td>
+                <td>jalan jalan</td>
+                <td>9</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>7</td>
+                <td>9</td>
+                <td>Rusak Sedang</td>
+                <td>Tanah</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto3                    </a>
+                </td>
+                <td>okey</td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">6</td>
+                <td class="text">19/03/2018 14:43:13</td>
+                <td class="text">19/03/2018 14:40:00</td>
+                <td>Bendanngisor</td>
+                <td>jlaan banowati selatan v</td>
+                <td>9</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>8</td>
+                <td>9</td>
+                <td>Rusak Ringan</td>
+                <td>Sirtu</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto3                    </a>
+                </td>
+                <td>okey</td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">7</td>
+                <td class="text"> </td>
+                <td class="text">08/12/2017 01:02:02</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger</td>
+                <td>7</td>
+                <td>5</td>
+                <td>Jalan</td>
+                <td>14</td>
+                <td>3</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td>rusak ringan</td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">8</td>
+                <td class="text"> </td>
+                <td class="text">08/12/2017 08:04:07</td>
+                <td>Bendungan</td>
+                <td>Jl.Tengger Barat VI</td>
+                <td>3</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>70</td>
+                <td>3</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td>rusak sedang</td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">9</td>
+                <td class="text"> </td>
+                <td class="text">08/12/2017 08:11:30</td>
+                <td>Bendungan</td>
+                <td>Jl.Tumpang I</td>
+                <td>1</td>
+                <td>9</td>
+                <td>Jalan</td>
+                <td>300</td>
+                <td>3</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">10</td>
+                <td class="text"> </td>
+                <td class="text">08/12/2017 08:12:55</td>
+                <td>Bendungan</td>
+                <td>Jl. Tumpang XI</td>
+                <td>4</td>
+                <td>9</td>
+                <td>Jalan</td>
+                <td>100</td>
+                <td>3</td>
+                <td>Rusak Sedang</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">11</td>
+                <td class="text"> </td>
+                <td class="text">08/12/2017 08:14:41</td>
+                <td>Bendungan</td>
+                <td>Jl. Tumpang I</td>
+                <td>5</td>
+                <td>9</td>
+                <td>Jalan</td>
+                <td>400</td>
+                <td>3</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">12</td>
+                <td class="text"> </td>
+                <td class="text">08/12/2017 08:17:49</td>
+                <td>Bendungan</td>
+                <td>Jl. Stonen Timur II</td>
+                <td>6</td>
+                <td>9</td>
+                <td>Jalan</td>
+                <td>300</td>
+                <td>0</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">13</td>
+                <td class="text"> </td>
+                <td class="text">08/12/2017 09:55:45</td>
+                <td>Bendungan</td>
+                <td>Jl. Stonen Timur</td>
+                <td>8</td>
+                <td>9</td>
+                <td>Jalan</td>
+                <td>450</td>
+                <td>3</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">14</td>
+                <td class="text"> </td>
+                <td class="text">08/12/2017 09:57:15</td>
+                <td>Bendungan</td>
+                <td>Jl. Stonen Timur II</td>
+                <td>9</td>
+                <td>9</td>
+                <td>Jalan</td>
+                <td>600</td>
+                <td>2.5</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">15</td>
+                <td class="text"> </td>
+                <td class="text">08/12/2017 09:59:29</td>
+                <td>Bendungan</td>
+                <td>Jl. Stonen Timur</td>
+                <td>9</td>
+                <td>9</td>
+                <td>Jalan</td>
+                <td>100</td>
+                <td>2.5</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">16</td>
+                <td class="text"> </td>
+                <td class="text">08/12/2017 13:27:28</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger Barat VI,VII,VIII</td>
+                <td>2</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>280</td>
+                <td>4</td>
+                <td>Rusak Sedang</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">17</td>
+                <td class="text"> </td>
+                <td class="text">08/12/2017 13:28:56</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger Barat III,IV,V</td>
+                <td>3</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>306</td>
+                <td>4</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">18</td>
+                <td class="text"> </td>
+                <td class="text">11/12/2017 13:30:26</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger Raya Barat</td>
+                <td>4</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>325</td>
+                <td>6</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">19</td>
+                <td class="text"> </td>
+                <td class="text">11/12/2017 13:31:56</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger Barat I,II</td>
+                <td>4</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>410</td>
+                <td>4</td>
+                <td>Rusak Berat</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">20</td>
+                <td class="text"> </td>
+                <td class="text">11/12/2017 13:33:50</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger Raya Utara</td>
+                <td>5</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>225</td>
+                <td>6</td>
+                <td>Rusak Sedang</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">21</td>
+                <td class="text"> </td>
+                <td class="text">11/12/2017 13:36:52</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger Raya Timur</td>
+                <td>6</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>330</td>
+                <td>6</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto3                    </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">22</td>
+                <td class="text"> </td>
+                <td class="text">11/12/2017 13:39:46</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger Raya Utara</td>
+                <td>6</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>105</td>
+                <td>6</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto3                    </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">23</td>
+                <td class="text"> </td>
+                <td class="text">11/12/2017 13:41:01</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger I</td>
+                <td>6</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>105</td>
+                <td>4</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto3                    </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">24</td>
+                <td class="text"> </td>
+                <td class="text">11/12/2017 13:42:38</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger Raya Selatan</td>
+                <td>7</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>185</td>
+                <td>6</td>
+                <td>Rusak Sedang</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">25</td>
+                <td class="text"> </td>
+                <td class="text">11/12/2017 13:43:58</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger II</td>
+                <td>8</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>105</td>
+                <td>4</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">26</td>
+                <td class="text"> </td>
+                <td class="text">11/12/2017 13:45:48</td>
+                <td>Bendungan</td>
+                <td>Jl. Tengger VI</td>
+                <td>8</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>165</td>
+                <td>4</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">27</td>
+                <td class="text"> </td>
+                <td class="text">11/12/2017 13:49:09</td>
+                <td>Bendungan</td>
+                <td>Jl.Tengger V</td>
+                <td>9</td>
+                <td>7</td>
+                <td>Jalan</td>
+                <td>160</td>
+                <td>4</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto1                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto3                    </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">28</td>
+                <td class="text"> </td>
+                <td class="text">22/12/2017 07:46:16</td>
+                <td>Bendungan</td>
+                <td>Jl. Taman Watulawang III</td>
+                <td>11</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>1210</td>
+                <td>4</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">29</td>
+                <td class="text"> </td>
+                <td class="text">03/01/2018 16:46:15</td>
+                <td>Bendungan</td>
+                <td>Jl. Taman watulawang III</td>
+                <td>1</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>100</td>
+                <td>3</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">30</td>
+                <td class="text"> </td>
+                <td class="text">03/01/2018 16:46:15</td>
+                <td>Bendungan</td>
+                <td>Jl. Taman watulawang III</td>
+                <td>1</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>100</td>
+                <td>3</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">31</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 16:46:15</td>
+                <td>Bendungan</td>
+                <td>Jl. Taman watulawang III</td>
+                <td>1</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>100</td>
+                <td>3</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">32</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:00:49</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang V</td>
+                <td>2</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>200</td>
+                <td>3</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">33</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:02:53</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang III</td>
+                <td>1</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>100</td>
+                <td>3</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">34</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:04:25</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang Timur I</td>
+                <td>3</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>1004</td>
+                <td></td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">35</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:07:04</td>
+                <td>Bendungan</td>
+                <td>Jl. Taman Watulawang VI</td>
+                <td>4</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>200</td>
+                <td>4</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">36</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:09:40</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang Timur II</td>
+                <td>5</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>100</td>
+                <td>3</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">37</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:11:31</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang V</td>
+                <td>6</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>100</td>
+                <td>4</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">38</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:13:16</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang V</td>
+                <td>6</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>100</td>
+                <td>3</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">39</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:14:51</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang VI</td>
+                <td>7</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>150</td>
+                <td>3</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">40</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:17:04</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang Utara</td>
+                <td>8</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>300</td>
+                <td>3</td>
+                <td>Baik</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">41</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:18:46</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang Timur IV</td>
+                <td>8</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>100</td>
+                <td>3</td>
+                <td>Rusak Sedang</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">42</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:21:05</td>
+                <td>Bendungan</td>
+                <td>Jl. Taman watulawang V</td>
+                <td>9</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>300</td>
+                <td>4</td>
+                <td>Rusak Berat</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">43</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:23:21</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang Timur</td>
+                <td>10</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>50</td>
+                <td>3</td>
+                <td>Rusak Berat</td>
+                <td>Sirtu</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">44</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:23:21</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang Timur</td>
+                <td>10</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>50</td>
+                <td>3</td>
+                <td>Rusak Berat</td>
+                <td>Tanah</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">45</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:23:21</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang Timur</td>
+                <td>10</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>50</td>
+                <td>3</td>
+                <td>Rusak Berat</td>
+                <td>Beton</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">46</td>
+                <td class="text"> </td>
+                <td class="text">04/01/2018 17:29:18</td>
+                <td>Bendungan</td>
+                <td>Jl. Watulawang II</td>
+                <td>11</td>
+                <td>8</td>
+                <td>Jalan</td>
+                <td>150</td>
+                <td>3</td>
+                <td>Rusak Berat</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td>Proses dibangun</td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">47</td>
+                <td class="text"> </td>
+                <td class="text">10/01/2018 09:11:54</td>
+                <td>Bendungan</td>
+                <td></td>
+                <td>3</td>
+                <td>2</td>
+                <td>Jalan</td>
+                <td>120</td>
+                <td>4</td>
+                <td>Rusak Sedang</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">48</td>
+                <td class="text"> </td>
+                <td class="text">10/01/2018 09:14:46</td>
+                <td>Bendungan</td>
+                <td></td>
+                <td>6</td>
+                <td>2</td>
+                <td>Jalan</td>
+                <td>130</td>
+                <td>4</td>
+                <td>Rusak Sedang</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">49</td>
+                <td class="text"> </td>
+                <td class="text">10/01/2018 09:19:31</td>
+                <td>Bendungan</td>
+                <td></td>
+                <td>7</td>
+                <td>2</td>
+                <td>Jalan</td>
+                <td>130</td>
+                <td>4</td>
+                <td>Rusak Sedang</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+                    <tr>
+                <td style="text-align: center;">50</td>
+                <td class="text"> </td>
+                <td class="text">10/01/2018 09:21:05</td>
+                <td>Bendungan</td>
+                <td></td>
+                <td>8</td>
+                <td>2</td>
+                <td>Jalan</td>
+                <td>500</td>
+                <td>3</td>
+                <td>Rusak Ringan</td>
+                <td>Aspal</td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                        Foto2                    </a>
+                </td>
+                <td class="text-center">
+                    <a href="#" style="color:#d9534f" data-target='tooltip' title='Perbesar'>
+                                            </a>
+                </td>
+                <td></td>
+            </tr>
+            </tbody>
+</table>
